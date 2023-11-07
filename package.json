@@ -1,0 +1,28 @@
+{
+  "name": "pseudofont",
+  "version": "1.0.0",
+  "description": "A class to simplify creation and conversion of unicode pseudo (fake) fonts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waterrmalann/pseudofont.git"
+  },
+  "keywords": [
+    "unicode",
+    "pseudofont",
+    "fake",
+    "font",
+    "unicode",
+    "font",
+    "font"
+  ],
+  "author": "Alan Varghese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waterrmalann/pseudofont/issues"
+  },
+  "homepage": "https://github.com/waterrmalann/pseudofont#readme"
+}
