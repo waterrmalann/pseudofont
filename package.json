@@ -1,6 +1,6 @@
 {
   "name": "pseudofont",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A class to simplify creation and conversion of unicode pseudo (fake) fonts.",
   "main": "index.js",
   "scripts": {
@@ -13,10 +13,6 @@
   "keywords": [
     "unicode",
     "pseudofont",
-    "fake",
-    "font",
-    "unicode",
-    "font",
     "font"
   ],
   "author": "Alan Varghese",
